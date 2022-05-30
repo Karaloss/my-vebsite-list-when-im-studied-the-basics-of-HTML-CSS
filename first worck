@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html dir="ltr">
+<html lang="en">
+    <meta charset="utf-8">
+            <head>
+
+            <title>Homework2</title>
+
+        </head>
+
+            <body>
+
+                <!-- заголовки -->
+
+                <div>
+                    <h1>Заголовок 1 уровня</h1>
+
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?</h4>
+                    </p>
+                    <h2>   Заголовок 2 уровня  </h2>
+
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?
+                    </h4></p>
+
+                    <h3>Заголовок 3 уровня</h3>
+
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?
+                    </h4></p>
+
+                    <h4>  Заголовок 4 уровня  </h4>
+
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?
+                    </h4></p>
+
+                    <h5>  Заголовок 5 уровня  </h5>
+
+
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?
+                    </h4>
+
+                    <h6>  Заголовок 6 уровня  </h6>
+                    <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto distinctio eos ex ipsum laudantium optio perferendis quasi quibusdam quisquam, totam? Ad alias, culpa facilis impedit ipsum molestiae optio placeat tempora?
+                    </h4></p>
+
+                </div>
+                <hr>
+                    <!--Форматирование текста-->
+
+                    <div>
+                        <h1>Форматирование текста</h1>
+
+                        <p>Краткая демонстрация текстовых элементов.</p>
+
+
+                            
+
+                            <H5>параграф</H5>
+                            
+
+                            
+                            <p> Элемент "параграф", который создаеться тегом &lt;p&gt; ... &lt;p&gt;  определяет текстовый абзац(создает новый параграф).
+                            Абзац является блочным элементом, всегда начинается с новой строки и имеет отсуп до и после себя.
+                            Абзац не позволяет вкладывать внутрь себя такие друшие блочные элементы, к примеру&lt;addres&gt; ... &lt;address&gt;  (информации об авторе),
+                            &lt;p&gt;  ... &lt;/p&gt;    &lt;blockquote &gt; ... &lt; /blockquote&gt; (блочная цитата),  &lt;table &lt; ... &gt;table&gt; (таблица), а также другие абзаци 
+                                &lt;p&gt; ... &lt;p&gt; 
+                            </p>
+                            <div>
+
+                                <h5> Акценты в тексте </h5>
+
+                                <p>Вы можете отформатировать текст используя такие элементы, как &lt;i&gt; ... &lt;i/&gt; или &lt;em&gt; ... &lt;/em&gt; <i>чтобы сделать ваш текст наклонным.</i> 
+                                </p>
+                                        <p>  Вы также можете использовать &lt;q&gt; ... &lt;/q&gt; - <q>строчные цитаты, которые в отличии от блочных, позволяют вложенность внутри абзаца.</q> 
+                                        </p>
+                          
+
+                                            <p> При помощи элементов  &lt;b&gt; ... &lt;/b&gt; или  &lt;strong&gt; ... &lt;/strong&gt; - <b>можно обозначить важный текст жирностью шрифта.</b> 
+                                            </p>
+
+                                                <p> Для <u>подчеркивания текста используйте</u>   &lt;u&gt; ... &lt;/u&gt; или  &lt;ins&gt; ... &lt;/ins&gt;
+                                                <del>a для перечеркивания</del>  - <del>...</del> .
+                                               </p>
+
+                                                <p>Также можно <mark>выделить нужную часть текста при помощи элемента</mark>  &lt;mark&gt; ... &lt;/mark&gt; .
+                                                </p>
+
+                                                    <p>Также можно использовать специальные элементы &lt;sup&gt; ... &lt;/sup&gt; <sup>Отображает шрифт в виде верхнего индекса</sup> 
+                                                        и &lt;sub&gt; ... &lt;/sub&gt; <sub>Отображает шрифт в виде нижнего индекса.</sub>
+                                                    </p>
+
+                                                        <p>Элемент &lt;small&gt; ... &lt;/small&gt; <small>уменьшает размер шрифта</small> 
+                                                        </p>
+
+                                                            <p>Элемент &lt;code&gt; ... &lt;/code&gt; предназначен для отображения одной или нескольких строк текста, который представляет собой программный код
+                                                           
+                                                           <code>- чтобы узнать контекст метода нужно вызвать console.log(this);</code>  .
+                                                       </p>
+
+                                                                <p>Элемент &lt;kbd&gt; ... &lt;kbd&gt; используется для обозначения текста, который набирается на клавиатуре или для названия клавиш,
+                                                                    <I>пример:</I> 
+                                                                    - чтобы вызвать "Диспетчер задач" нажмите на клавиатуре вместе 3 клавиши -<kbd> Ctrl + Alt + Del.</kbd>
+                                                                </p>
+
+                                                                <p>Элемент &lt;samp&gt; ... &lt;samp&gt; используется для отображения текста, который является результатом вывода компьютерной программы или скрипта,
+                                                                        <I>пример:</I> 
+                                                                    - К сожалению, Ваш браузер НЕ поддерживает современные возможности <samp>JavaScript</samp>
+                                                                </p>
+
+                                                                <p>Элемент &lt;abbr&gt; ... &lt;abbr&gt; указывает, что <abbr>ПС</abbr> является аббревиатурой. С помощью атрибута дается расшифровка сокращения - &lt; title="последовательность символов"&gt; ПС&lt;/abbr&gt; , что позволяет понимать аббревиатуру тем людям, которые с ней не знакомы. <b>Кроме того, поисковые системы индексируют полнотекстовый вариант сокращения, что может использоваться для повышения рейтинга документа.</b>
+                                                                </p>
+
+                                                                <p>Как правило, когда, в документе, <i>упоминается новый термин</i> , он выделяется курсивом и дается его определение. При использовании этого термина в дальнейшем, он считается уже известным читателю. Элемент &lt;dfn&gt; ... &lt;dfn&gt; применяется для выделения тыдел терминов при их первом появлении в тексте. С помощью атрибута title вы можете дать более подробную расшифровку термина.
+                                                                                    <I>пример:</I>  
+                                                                                &lt;dfn title="это новый термин"&gt;новый термин&lt;/dfn&gt;
+                                                                </p>
+
+
+                                                               
+
+
+
+
+                    </div>
+                    
+                </div>
+                                                                        <!--Выделение блоков текста-->
+                    <div> 
+                        <h4>Выделение блоков текста </h4>
+
+                        <blockquote>Элемент &lt;blockquote&gt;...&lt;/blockquote&gt; используется для обозначения цитат, длинных выписок, афоризмов и прочее, который создается в новом блоке с пробелами до и после.
+                        </blockquote>
+
+
+<p>Тег &lt;pre&gt;...&lt;/pre&gt; определяет блок предварительно форматированного текста.
+    <blockquote>Такой текст отображается обычно моноширинным шрифтом
+    и со всеми пробелами    между    словами <br>
+        По умолчанию, любое количество пробелов идущих в коде подряд,
+        на веб-странице показывается как один.
+    </blockquote>
+    
+</p>
+    <p>Тег &lt;pre&gt; позволяет обойти эту особенность и отображать текст
+        <pre>
+        как
+        требуется
+        разработчику.</pre>
+    </p>
+
+            <p>Элемент &lt;address&gt;...&lt;/address&gt; предназначен для хранения информации об авторе (НЕ адреса и контакты компании, прочее) и может включать в себя любые элементы HTML вроде ссылок, текста, выделений и т.д.
+        </p>
+
+
+        i>пример:</i>
+        
+        &lt;address&gt;<blockquote>
+            Этот партал зделан сабствинаручно веб-дизайнером Ваней Шапочкиным в праграме Блакнот<br>
+            Если вы хатите взять маи статьи к сибе на сайт то спрасите мае разришение.</blockquote>
+        &lt;/address&gt;
+                        <hr>
+
+                    </div>
+                                                                <!--Cписки-->
+                    <div>
+                        <h3>Списки</h3>
+                            
+
+                        <h4>Маркированный список</h4>
+
+
+
+                        Элемент <ul>...</ul> устанавливает маркированный (неупорядоченный) список. Каждый пункт списка должен начинаться с элемента <li>...</li> .
+
+Если к <ul> применяется таблица стилей, то элементы <li> наследуют эти свойства.
+
+<ul>- студия Wezom - Продвижение, создание сайтов, разработка, раскрутка сайта<br>
+ Центр Корова - Аренда офиса, рабочего места в центре Херсона<br>
+ Размещение бесплатной баннерной рекламы в интернете<br>
+ Разработка и создание мобильных приложений для android и ios устройств в Украине<br>
+    <blockquote> Lorem ipsum dolor sit
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit
+     Lorem ipsum dolor sit amet, consectetur
+        <p>Повседневная практика показывает, что
+         Повседневная практика показывает, что постоянный количественный рост и сфера
+         Повседневная практика показывает, что постоянный количественный</p>
+     </blockquote>
+     </ul>
+
+Нумерованный список
+
+Элемент <ol>...</ol> устанавливает нумерованный (упорядоченный) список. Каждый элемент списка должен начинаться с <li>...</li> .
+
+Если к <ol> применяется таблица стилей, то элементы <li> наследуют эти свойства.
+
+- Помощь детям с пораженной ЦНС
+- Все о здоровье и медицин
+- Черное и Азовское море / пансионаты Херсонского побережья
+- Рафтинг в Украине, сплав по реке Южный Буг
+    - Lorem ipsum dolor sit
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit
+    - Lorem ipsum dolor sit amet, consectetur
+        - Повседневная практика показывает, что
+        - Повседневная практика показывает, что постоянный количественный рост и сфера
+        - Повседневная практика показывает, что постоянный количественный
+
+Список определений  
+
+Элемент <dl>...</dl> входит в тройку элементов <dl>, <dt>, <dd> , предназначенных для создания списка описаний. Каждый такой список начинается с контейнера <dl> , куда входит элемент <dt> создающий термин и элемент <dd> задающий описание этого термина.
+
+Пример
+
+Что такое Тег?
+    Тег — это специальный символ разметки, который применяется для вставки различных элементов на веб-страницу таких как: рисунки, таблицы, ссылки и др., и для изменения их вида.
+Что такое HTML-документ?
+    Обычный текстовый файл, который может содержать в себе текст, теги и стили. Изображения и другие объекты хранятся отдельно. Содержимое такого файла обычно называется HTML-код.
+Что такое Сайт?
+    Cайт — это набор отдельных веб-страниц, которые связаны между собой ссылками и единым оформлением.
+
+---------------------------------------------------------------
+
+© 2017. Школа Мастерства Wezom. Курс верстки (HTML5 + CSS3 + JS).
+
+                        
+
+
+                    </div>
+
+
+    </body>
+    </html>
+</html>
