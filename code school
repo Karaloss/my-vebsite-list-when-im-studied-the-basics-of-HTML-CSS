@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" bgcolor="#f5f5f5" >
+	<!-- таблица обертка -->
+
+		<thead width="100%" border="0" cellspacing="0" cellpadding="0">
+		<!--тхед + лого  -->
+	<table align="center" width="100%" cellpadding="0" cellpadding="0" border="0"  bgcolor="#ffffff" >
+			<tr align="center" width="100%" >
+			
+					<th width="100%"  align="center" colspan="3" height="84">
+						<img src="img/logo/cod_logo.jpg" alt="">
+					</th>
+			
+			</tr>
+			
+			</table>
+	</thead>
+
+
+
+		
+
+		
+		
+			
+		
+
+
+																												<!--block 1-->
+<tbody align="center" width="400"  cellpadding="0" border="0" bgcolor="#f5f5f5" >
+	<table width="560" border="0" cellspacing="0" cellpadding="0"  align="center">
+ 
+
+	<!--логотип верхний -->
+	<tr height="50" wigth="520" >
+		<th colspan="3" align="center" align="midle"  >
+			<img src="img/logo/log_top.png" alt="" align="middle"  >
+		</th>
+
+	</tr>
+
+	<!--2 угла + низ логотпа -->
+		
+			<th width="60" height="50">
+				<img src="img/blocks/white/white-top-left.png" alt="" align="middle" >
+				
+			</th>
+			<a name="up"></a>
+
+			<th height="50" width="100" align="top" bgcolor="#ffffff"   >
+				<img src="img/logo/log_botom.png" alt align="middle">
+			</th>
+
+			<th width="60" height="50">
+				<img src="img/blocks/white/white--top-right.png" alt="" align="middle">
+			</th>
+		</tr>
+	<!--текст блока 1-->
+	<tr>
+		<th colspan="3" align="center" height="27" bgcolor="#ffffff"   font-family="Arial - Bold MT"; >
+			 <h3>New This Month</h3>
+		</th>
+		
+	</tr>
+	<tr>
+		<td colspan="3" align="center" bgcolor="#ffffff">
+			<h4>Get up to speed with SVG, learn to build an interactive <br> 
+			website,and more this month at Code School.</h4>
+		</td>
+	</tr>
+
+
+	<!--2 угла 1 блока -->
+	<tr height="50" >
+		<td>
+			<img src="img/blocks/white/white--bottom-left.png" alt="" align="middle" height="50">
+		</td>
+		<td bgcolor="#ffffff"  width="440">
+			
+		</td>
+		<td>
+			<img src="img/blocks/white/white--bottom-right.png" alt="" align="middle" height="50">
+		</td>
+	</tr>
+
+
+</table>
+
+																																									<!--block 1-->
+																																									<!--new course-->
+<table  width="560" border="0" cellspacing="0" cellpadding="0"  align="center">
+	
+	<tr>
+		
+		<th height="60">
+			<font font face="Arial">
+			<h2>New Course</h2>
+		</font>
+		</th>
+
+	</tr>
+</table>
+
+																																									<!--block 2 стержень -->
+<table  width="560" border="0" cellspacing="0" cellpadding="0"  align="center">
+																																									<!-- верхнее лого-->
+	<tr>
+		<th colspan="3" height="50" width="100">
+			<img src="img/logo/codeschool--course-top.png" alt="" align="middle" >
+		</th>
+	</tr>
+																																									<!-- углы + лого низ -->
+	<tr align="center" >
+		<td height="50" width="60" >
+			<img src="img/blocks/green/round-course--top-left.png" alt="" align="middle" >
+		</td>
+		<td height="50" align="top" bgcolor="#00c27c">
+			<img src="img/logo/codeschool--course-bottom.png" alt="" align="middle">
+		</td>
+		<td height="50" width="60"  >
+			<img src="img/blocks/green/round-course--top-right.png" alt="" align="middle">
+		</td>
+	</tr>
+	<tr  bgcolor="#00c27c">
+		<td colspan="3" height="25">
+			
+		</td>
+	</tr>
+																																									<!-- th текст -->
+	<tr bgcolor="#00c27c">
+		<td colspan="3" align="center" height="23"   font-family="Arial - Bold MT"; >
+			
+
+				<font face="Arial - Bold MT" color="#ffffff">
+					<h3>You, Me & SVG</h3>
+					<p>
+				</font>
+					
+						<font face="Arial MT" color="#ffffff">
+						<h4>
+							Play through You, Me & SVG now, and learn how to create <br> 
+						and use scalable vector graphics in your own projects.
+						</h4>
+					</p>
+				</font>
+			
+			
+			
+																																							<!-- основной текст блока  -->
+				<tr bgcolor="#00c27c">
+					<td colspan="3" align="center" font-family="Arial MT";>
+						
+		</td>
+		</td>
+	</tr>
+																																					<!-- изображение "читать дальше с ссылкой (сылка не точно)" -->
+	<tr bgcolor="#00c27c">
+		<td align="middle" colspan="3" height="66" >
+			<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><img src="img/buttom/codeschool--course-link.png" alt=""></a>
+			
+		</td>
+
+		
+	</tr>
+																																									<!-- углы и пропуск -->
+	<tr>
+	
+	
+		<td>
+			<tr align="center" >
+		<td height="50" width="60" >
+			<img src="img/blocks/green/round-course--bottom-left.png" alt="" align="middle" >
+		</td>
+		<td height="50" bgcolor="#00c27c">
+			
+		</td>
+		<td height="50" width="60"  >
+			<img src="img/blocks/green/round-course--bottom-right.png" alt="" align="middle">
+		</td>
+	</tr>
+
+</table>
+
+<table width="560 " align="center">
+	<tr >
+		<th height="100" >
+			<font font face="Arial"><h2>
+				New Screencasts
+			</h2>
+			</font>
+		</th>
+	</tr>
+</table>
+
+<table   width="560" border="0" cellspacing="0" cellpadding="0"  align="center">
+	
+	<tr>
+		<th colspan="3">
+			<img src="img/logo/codeschool--screencasts-top.png" alt="" align="middle">
+		</th>
+	</tr>
+		<tr>
+			<th height="50" width="60">
+				<img src="img/blocks/gray/round-screencasts--top-left.png" alt="" align="middle">
+			</th>
+				
+					
+					<th bgcolor="#676777" width="440">
+						<img src="img/logo/codeschool--screencasts-bottom.png" alt="" align="top">
+					</th>
+						<th  height="50" width="60">
+							<img src="img/blocks/gray/round-screencasts--top-right.png" alt="" align="middle">
+						</th>
+		</tr>
+		<!--text-->
+			<tr >
+				<td colspan="3" bgcolor="#676777" bgcolor="#676777" width="560">
+					<font face="Arial MT"; color="#fff">
+						<h4>
+							<ul>
+								<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><p><u>Soup to Bits: You, Me & SVG</u></p>
+
+								<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><p><u>EmberScreencasts: ES2015 Modules</u></p>
+
+								<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><p><u>EmberScreencasts: Promises Basics</u></p>
+								
+								<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><p><u>EmberScreencasts: ES2015 Template Strings</u></p>
+
+								<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><p><u>Metaprogramming Fundamentals: Scopes</u></p>
+							</ul>
+						</h4>
+					</font>
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="3" align="middle" bgcolor="#676777">
+					<a href="O:\code\Work`s\home_5+\Home_5_lvl_2.html "><img src="img/buttom/codeschool--screencasts-link.png" alt="" height="">
+				</td>
+			</tr>
+			<!--block closed-->
+				<tr>
+					<th height="50" width="60">
+						<img src="img/blocks/gray/round-screencasts--bottom-left.png" alt="" align="middle">
+					</th>
+						<th  bgcolor="#676777" height="50" width="60">
+							
+						</th>
+							<th height="50" width="60">
+								<img src="img/blocks/gray/round-screencasts--bottom-right.png" alt="" align="middle">
+							</th>
+				</tr>
+
+</table>
+
+<table width="100% " align="center" bgcolor="#ffffff">
+	<tr>
+		<th height="70">
+			
+		</th>
+	</tr>
+	<tr >
+		<th height="100" >
+				<font face="Arial">
+						<h2>
+						New Blog Posts
+						</h2>
+			</font>
+		</th>
+	</tr>
+	<tr><th height="20">
+		
+	</th></tr>
+</table>
+<table width="100%" bgcolor="#ffffff"  border="0" cellspacing="0" cellpadding="0"  align="center">
+<!-- верх лого-->
+	<tr>
+		<!--бар збоку-->
+		
+		<td bgcolor="#ffffff" width="" align="center" height="47" colspan="2" >
+			<img src="img/logo/codeschool--blog-top.png" alt="" align="top">
+		</td>
+		<td width="25"></td>
+<!--угол-->
+		
+	</tr>
+	</table>	
+
+	<table width="100%" bgcolor="#ffffff"  border="0" cellspacing="0" cellpadding="0"  align="center">
+<!-- лого низ + углы цвет #00acc9 -->
+
+	<tr align="top">
+<!--бар збоку-->
+		<td bgcolor="#ffffff"></td>
+<!--угол-->
+		<td  height="50" width="60">
+			<img src="img/blocks/blue/round-blog--top-left.png " alt="" align="middle">
+		</td>
+<!--лого-->
+		<td bgcolor="#00acc9" width="440" align="center">
+			<img src="img/logo/codeschool--blog-bottom.png" alt=""align="top">
+		</td>
+<!--угол-->
+		<td  height="50" width="60">
+			<img src="img/blocks/blue/round-blog--top-right.png" alt=""align="middle">
+		</td >
+<!--бар збоку-->
+		<td bgcolor="#ffffff"></td>
+	</tr>
+
+<!-- основной текст #9adeea -->
+	<tr>
+		<td></td>
+
+		<td width="60" bgcolor="#00acc9"></td>
+
+		<td bgcolor="#00acc9" height="440">
+			<ul>
+					<font color="#1899ae">Jordan Wade</font><br>
+					<font color="#9adeea"><a href="#up"><u>Benefits of Learning How to Use SVG</a></font></u><br>
+<br>
+					<font color="#1899ae">Alvise Susmel</font><br> 
+					<font color="#9adeea"><a href="#up"><a href="#up">Machine Learning: Working With Stop Words, Stemming, and Spam</a></u><br>
+<br>
+					<font color="#1899ae">Morgan Laco</font><br> 
+					<font color="#9adeea"><a href="#up"><u>Testing Code Submissions With Python AST</a><font color="#9adeea"></u><br>
+<br>
+					<font color="#1899ae">Zach Garwood</font><br>
+					<font color="#9adeea"><a href="#up"><u>Dynamic Sorting in Ember.js</a></u></font><br>
+<br>
+					<font color="#1899ae">Cher Cloude</font><br> 
+					<font color="#9adeea"><a href="#up"><u>Designing You, Me, & SVG</a><font color="#9adeea"></u><br>
+<br>
+					<font color="#1899ae">Kenny Yarboro</font><br> 
+					<font color="#9adeea"><a href="#up"><u>You Landed the Job — So Now What?</a><font color="#9adeea"></u><br>
+<br>
+					<font color="#1899ae">Adam Rensel</font><br> 
+					<font color="#9adeea"><a href="#up"><u>Teaching Ember.js in the Browser</a><font color="#9adeea"></u><br>
+<br>
+					<font color="#1899ae">Olivier Lacan, Dan Denney</font><br> 
+					<font color="#9adeea"><a href="#up"><u>Creating Code School's Search Feature</a><font color="#9adeea"></u><br>
+				
+			</ul>		
+		</td>
+
+		<td width="60" bgcolor="#00acc9"></td>
+
+		<td></td>
+
+	</tr>
+<!-- низ углы  -->
+	<tr>
+<!--бар збоку-->
+		<td bgcolor="#ffffff"></td>
+<!--угол-->
+		<td  height="50" width="60">
+			<img src="img/blocks/blue/round-blog--bottom-left.png " alt="" align="middle">
+		</td>
+<!--лого-->
+		<td bgcolor="#00acc9" width="440">
+			
+		</td>
+<!--угол-->
+		<td  height="50" width="60">
+			<img src="img/blocks/blue/round-blog--bottom-right.png" alt="" align="middle">
+		</td >
+<!--бар збоку-->
+		<td bgcolor="#ffffff"></td>
+	</tr>
+
+<!-- отступ к подвалу -->
+	<tr>
+		<td colspan="5" height="20"></td>
+	<tr>
+		<td  colspan="5" height="20"></td>
+	</tr>
+		
+		
+	</tr>
+	</table>	
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" bgcolor="#2d3033">
+						<tr>
+							<th align="center"  width="80"  height="80">
+
+								<a href="#up">
+									<img src="img/logo/codeschool--logo-bottom-text--invert.png" alt align="middle">
+								</a>
+							</th>
+						</tr>
+					</table>
+
+
+
+													
+
+
+
+
+
+
+
+
+</tbody>
+<!--подвал tfoot + лого -->
+	<tfoot >
+			
+					<!-- таблица стержень -->
+					
+				
+		</tfoot>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
